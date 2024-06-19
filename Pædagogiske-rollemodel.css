@@ -1,0 +1,127 @@
+ .u-section-1 {
+  min-height: 1106px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 559px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  width: 745px;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: -318px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 301px calc(((100% - 1140px) / 2)  + 11px) 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  width: 745px;
+  margin: 190px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 940px) / 2));
+    margin-left: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 720px) / 2));
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1830px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-top: -319px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 302px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+    margin-top: 71px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 738px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 32px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 69px 0 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 90px 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 91px 0 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 776px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: -328px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+    margin-bottom: 35px;
+  }
+}
